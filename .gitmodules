@@ -1,0 +1,42 @@
+[submodule "Norway_clc_deciduousforest"]
+	path = Norway_clc_deciduousforest
+	url = https://github.com/NorwayProject/Norway_clc_deciduousforest.git
+[submodule "Norway_clc_grassland"]
+	path = Norway_clc_grassland
+	url = https://github.com/NorwayProject/Norway_clc_grassland.git
+[submodule "Norway_clc_heath"]
+	path = Norway_clc_heath
+	url = https://github.com/NorwayProject/Norway_clc_heath.git
+[submodule "Norway_clc_openmining"]
+	path = Norway_clc_openmining
+	url = https://github.com/NorwayProject/Norway_clc_openmining.git
+[submodule "Norway_clc_port"]
+	path = Norway_clc_port
+	url = https://github.com/NorwayProject/Norway_clc_port.git
+[submodule "Norway_clc_rock"]
+	path = Norway_clc_rock
+	url = https://github.com/NorwayProject/Norway_clc_rock.git
+[submodule "Norway_clc_sand"]
+	path = Norway_clc_sand
+	url = https://github.com/NorwayProject/Norway_clc_sand.git
+[submodule "Norway_clc_urban"]
+	path = Norway_clc_urban
+	url = https://github.com/NorwayProject/Norway_clc_urban.git
+[submodule "Norway_clc_watercourse"]
+	path = Norway_clc_watercourse
+	url = https://github.com/NorwayProject/Norway_clc_watercourse.git
+[submodule "Norway_osm_landmass"]
+	path = Norway_osm_landmass
+	url = https://github.com/NorwayProject/Norway_osm_landmass.git
+[submodule "Norway_clc_evergreenforest"]
+	path = Norway_clc_evergreenforest
+	url = https://gitlab.com/FGMEMBERS-TERRAGIT/Norway_clc_evergreenforest.git
+[submodule "Norway_clc_mixedforest"]
+	path = Norway_clc_mixedforest
+	url = https://gitlab.com/FGMEMBERS-TERRAGIT/Norway_clc_mixedforest.git
+[submodule "Norway_clc_scrub"]
+	path = Norway_clc_scrub
+	url = https://gitlab.com/FGMEMBERS-TERRAGIT/Norway_clc_scrub.git
+[submodule "Norway_clc_town"]
+	path = Norway_clc_town
+	url = https://gitlab.com/FGMEMBERS-TERRAGIT/Norway_clc_town.git
