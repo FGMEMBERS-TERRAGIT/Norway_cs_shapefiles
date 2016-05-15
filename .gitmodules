@@ -46,9 +46,6 @@
 [submodule "Norway_clc_airports"]
 	path = Norway_clc_airports
 	url = https://github.com/NorwayProject/Norway_clc_airports.git
-[submodule "clc_lake"]
-	path = clc_lake
-	url = https://github.com/NorwayProject/clc_lake.git
 [submodule "Norway_clc_drycrop"]
 	path = Norway_clc_drycrop
 	url = https://github.com/NorwayProject/Norway_clc_drycrop.git
