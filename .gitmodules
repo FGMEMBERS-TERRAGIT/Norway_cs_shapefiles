@@ -40,3 +40,6 @@
 [submodule "Norway_clc_town"]
 	path = Norway_clc_town
 	url = https://gitlab.com/FGMEMBERS-TERRAGIT/Norway_clc_town.git
+[submodule "Norway_clc_naturalcrop"]
+	path = Norway_clc_naturalcrop
+	url = https://github.com/NorwayProject/Norway_clc_naturalcrop.git
