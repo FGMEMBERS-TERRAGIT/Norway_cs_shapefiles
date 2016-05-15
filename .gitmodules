@@ -43,3 +43,6 @@
 [submodule "Norway_clc_naturalcrop"]
 	path = Norway_clc_naturalcrop
 	url = https://github.com/NorwayProject/Norway_clc_naturalcrop.git
+[submodule "Norway_clc_airports"]
+	path = Norway_clc_airports
+	url = https://github.com/NorwayProject/Norway_clc_airports.git
