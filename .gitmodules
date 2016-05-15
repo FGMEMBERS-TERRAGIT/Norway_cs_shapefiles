@@ -58,3 +58,9 @@
 [submodule "osm_railway"]
 	path = osm_railway
 	url = https://github.com/NorwayProject/osm_railway.git
+[submodule "Norway_osm_waterways"]
+	path = Norway_osm_waterways
+	url = https://gitlab.com/decho/Norway_osm_waterways.git
+[submodule "Norway_osm_roads"]
+	path = Norway_osm_roads
+	url = https://gitlab.com/decho/Norway_osm_roads.git
