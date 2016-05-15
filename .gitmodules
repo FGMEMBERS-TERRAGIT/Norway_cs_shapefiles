@@ -70,3 +70,6 @@
 [submodule "clc_industrial"]
 	path = clc_industrial
 	url = https://github.com/NorwayProject/clc_industrial.git
+[submodule "clc_golfcourse"]
+	path = clc_golfcourse
+	url = https://github.com/NorwayProject/clc_golfcourse.git
