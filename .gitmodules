@@ -52,3 +52,6 @@
 [submodule "Norway_clc_drycrop"]
 	path = Norway_clc_drycrop
 	url = https://github.com/NorwayProject/Norway_clc_drycrop.git
+[submodule "Norway-clc-barrencover"]
+	path = Norway-clc-barrencover
+	url = git@gitlab.com:decho/Norway-clc-barrencover.git
