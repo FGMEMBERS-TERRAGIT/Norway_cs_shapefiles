@@ -67,3 +67,6 @@
 [submodule "clc_transport"]
 	path = clc_transport
 	url = https://github.com/NorwayProject/clc_transport.git
+[submodule "clc_industrial"]
+	path = clc_industrial
+	url = https://github.com/NorwayProject/clc_industrial.git
