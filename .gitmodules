@@ -64,3 +64,6 @@
 [submodule "Norway_osm_roads"]
 	path = Norway_osm_roads
 	url = https://gitlab.com/decho/Norway_osm_roads.git
+[submodule "clc_transport"]
+	path = clc_transport
+	url = https://github.com/NorwayProject/clc_transport.git
