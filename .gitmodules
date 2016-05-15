@@ -73,3 +73,6 @@
 [submodule "clc_golfcourse"]
 	path = clc_golfcourse
 	url = https://github.com/NorwayProject/clc_golfcourse.git
+[submodule "Norway-clc-cropgrass"]
+	path = Norway-clc-cropgrass
+	url = https://gitlab.com/decho/Norway-clc-cropgrass.git
