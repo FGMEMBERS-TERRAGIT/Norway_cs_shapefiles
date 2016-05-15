@@ -52,3 +52,6 @@
 [submodule "Norway-clc-barrencover"]
 	path = Norway-clc-barrencover
 	url = https://gitlab.com/decho/Norway-clc-barrencover.git
+[submodule "Norway_clc_lake"]
+	path = clc_lake
+	url = https://github.com/NorwayProject/clc_lake.git
